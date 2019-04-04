@@ -9,3 +9,4 @@ git has a mutable index called stage
 git checkout -b feature
 >>>>>>> feature
 --no-f method git merge
+update
